@@ -1,7 +1,7 @@
 {
   "name": "Dev'Coffee",
   "short_name": "DevCoffee",
-  "start_url": "index.html",
+  "start_url": "https://xsmilex007.github.io/smile-pwa/index.html",
   "display": "standalone",
   "background_color": "#fdfdfd",
   "theme_color": "#db4938",
